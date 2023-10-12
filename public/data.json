@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "Banda": "Blink-182",
+    "Album": "Dude Ranch",
+    "img": "https://i.pinimg.com/736x/5a/c7/b7/5ac7b72d3ee0dd48015f5ef8f2c0f81b.jpg",
+    "Price": 19.99
+  },
+  {
+    "id": 2,
+    "Banda": "Blink-182",
+    "Album": "Enema of The State",
+    "img": "https://i.pinimg.com/originals/cc/0c/4c/cc0c4cc18360a1b6fa0d3e1df105d900.jpg",
+    "Price": 9.99
+  },
+
+  {
+    "id": 3,
+    "Banda": "Blink-182",
+    "Album": "Blink-182",
+    "img": "https://i.pinimg.com/originals/78/25/20/782520d067efef305c9f5dff51688d20.jpg",
+    "Price": 19.99
+  },
+
+  {
+    "id": 4,
+    "Banda": "Blink-182",
+    "Album": "Take of your pants",
+    "img": "https://i.pinimg.com/736x/97/d8/d7/97d8d76fdb897d34088c136e006c9acb.jpg",
+    "Price": 19.99
+  }
+]

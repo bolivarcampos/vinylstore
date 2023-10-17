@@ -17,10 +17,14 @@
   cursor: pointer;
 }
 
+.navbar a {
+  text-decoration: none;
+}
+
 .seeCarrito {
   font-size: 25px;
   margin-right: 20px;
-  margin-top: 4vh;
+  margin-top: 50px;
   cursor: pointer;
   text-decoration: none;
 }

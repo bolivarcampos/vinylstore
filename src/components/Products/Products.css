@@ -9,6 +9,7 @@
 .card {
   margin: 50px;
   width: 20%;
+  background: gray;
 }
 
 .card button {
@@ -30,5 +31,6 @@
 .img-cover {
   margin: 0;
   padding: 0;
+  padding-top: 10px;
   width: 50%;
 }

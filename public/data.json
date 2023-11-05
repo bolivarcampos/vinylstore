@@ -32,5 +32,75 @@
     "img": "https://i.pinimg.com/736x/97/d8/d7/97d8d76fdb897d34088c136e006c9acb.jpg",
     "Price": 18,
     "quanty": 1
+  },
+
+  {
+    "id": 5,
+    "Banda": "Metallica",
+    "Album": "Master of Puppets",
+    "img": "https://i.pinimg.com/236x/57/3b/a2/573ba2e5d853b5fdfbe64c0d4e95e19c.jpg",
+    "Price": 28,
+    "quanty": 1
+  },
+  {
+    "id": 6,
+    "Banda": "Metallica",
+    "Album": "Ride the Lightning",
+    "img": "https://i.pinimg.com/236x/3a/64/2a/3a642a3c43867f2b85a21b957bb274f4.jpg",
+    "Price": 20,
+    "quanty": 1
+  },
+
+  {
+    "id": 7,
+    "Banda": "Metallica",
+    "Album": "Black Album",
+    "img": "https://i.pinimg.com/736x/55/3f/6a/553f6a758e7d700c554248aac2643147.jpg",
+    "Price": 25,
+    "quanty": 1
+  },
+
+  {
+    "id": 8,
+    "Banda": "Metallica",
+    "Album": "Saint Anger",
+    "img": "https://i.pinimg.com/474x/0f/54/62/0f5462d472c701949395a0c284d8075a.jpg",
+    "Price": 18,
+    "quanty": 1
+  },
+
+  {
+    "id": 9,
+    "Banda": "The Offspring",
+    "Album": "Americana",
+    "img": "https://i.pinimg.com/originals/09/ac/cb/09accb96dcd30fdf3146f770386056ea.jpg",
+    "Price": 26,
+    "quanty": 1
+  },
+  {
+    "id": 10,
+    "Banda": "The Offspring",
+    "Album": "Smash",
+    "img": "https://i.pinimg.com/736x/2c/dd/ed/2cddedf121255c1eefa03ade3732cd9f.jpg",
+    "Price": 10,
+    "quanty": 1
+  },
+
+  {
+    "id": 11,
+    "Banda": "The Offspring",
+    "Album": "Ixnai on the Hombre",
+    "img": "https://i.pinimg.com/474x/d6/59/b2/d659b2860b3e8f04f8b03780f4f71cbc.jpg",
+    "Price": 25,
+    "quanty": 1
+  },
+
+  {
+    "id": 12,
+    "Banda": "The Offspring",
+    "Album": "Conspiracy of One",
+    "img": "https://i.pinimg.com/236x/3d/d0/3f/3dd03f8ca6cda0a64c2fe0a2ca92d5aa--iconic-album-covers-lp-covers.jpg",
+    "Price": 32,
+    "quanty": 1
   }
 ]
